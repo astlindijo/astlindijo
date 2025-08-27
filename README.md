@@ -42,8 +42,8 @@
 ---
 
 ## 🌍 Connect With Me  
-- 📧 Email: *[astlindijo@icloud.com]*  
-- 💼 LinkedIn: *[]*  
+- 📧 Email: *[CLICK HERE]*(mailto:astlindijo@icloud.com)   
+- 💼 LinkedIn: *[CLICK HERE]*(https://)  
 - 🐙 Old GitHub (learning phase): [Doctorstra](https://github.com/Doctorstra)  
 
 ---
