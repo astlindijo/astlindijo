@@ -26,6 +26,9 @@
 
 ---
 
+## 👀 Profile Views
+<p align="left"> <a href="https://github.com/astlindijo"><img src="https://komarev.com/ghpvc/?username=astlindijo&label=Profile%20views&color=0e75b6&style=flat" alt="astlindijo" /></a> </p>
+
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=astlindijo&show_icons=true&theme=tokyonight" height="150"/>
