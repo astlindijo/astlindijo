@@ -157,9 +157,9 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=astlindijo&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=astlindijo&theme=tokyonight" height="150"/>
-</p>  
+  <a href="https://github.com/astlindijo/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=astlindijo&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="astlindijo" /></picture></a>
+  <a href="https://github.com/astlindijo/beautiful-github-homepage"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=astlindijo&hide_title=false&layout=compact&theme=gotham&count_private=true" /></picture></a>
+</p>
 
 ---
 
