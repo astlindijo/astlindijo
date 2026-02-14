@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+  <img src="https://github.com/astlindijo/astlindijo/blob/main/cover-astlin.png" />
 </p>
 
 
