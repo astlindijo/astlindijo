@@ -1,3 +1,6 @@
+![](Bottom_up.svg)
+
+
 💎 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&lines=꧁𝘄𝗲𝗹𝗰𝗼𝗺𝗲꧂;𝗧𝗼+♕🅰🆂🆃🅻🅸🅽+𝗚𝗶𝘁𝗵𝘂𝗯;𝗜+𝗔𝗺+♕🅰🆂🆃🅻🅸🅽;𝗙𝗿𝗼𝗺+༺☆𝗜𝗻𝗱𝗶𝗮☆༻🇮🇳)](https://git.io/typing-svg)
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&color=4FC428&lines=𝗛𝗲𝘆,+𝗜+𝗮𝗺+🅰🆂🆃🅻🅸🅽)](https://git.io/typing-svg) <img src="https://github.com/astlindijo/astlindijo/blob/main/astlin.gif" width=40% height=40%/>
