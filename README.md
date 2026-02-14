@@ -3,9 +3,9 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&lines=꧁𝘄𝗲𝗹𝗰𝗼𝗺𝗲꧂;𝗧𝗼+Astlin+Dijo+𝗚𝗶𝘁𝗵𝘂𝗯;𝗜+𝗔𝗺+Astlin+Dijo;𝗙𝗿𝗼𝗺+༺☆𝗜𝗻𝗱𝗶𝗮☆༻)](https://git.io/typing-svg)
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&color=4FC428&lines=𝗛𝗲𝘆,+𝗜+𝗮𝗺+Astlin+Dijo)](https://git.io/typing-svg) <img src="https://github.com/astlindijo/astlindijo/blob/main/astlin.gif" width=40% height=40%/>
-</p>
+<img src="https://github.com/astlindijo/astlindijo/blob/main/astlin.gif" width=40% height=40%/>
 
+ [![](https://github.com/astlindijo/astlindijo/blob/main/chat.svg)](https://astlin-dijo.vercel.app)
 
 <p align="center">
   <img src="https://github.com/astlindijo/astlindijo/blob/main/cover-astlin.png" />
